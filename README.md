@@ -1,4 +1,4 @@
-# AI Project Portfolio  
+# AI Project Planning
 Agentic AI · RAG · 사회문제 해결 중심 기획 포트폴리오
 
 **Agentic AI와 RAG 기술을 활용해 일상·지역·사회 문제를 해결하는 AI 서비스 기획 프로젝트**를 정리한 포트폴리오입니다.  
